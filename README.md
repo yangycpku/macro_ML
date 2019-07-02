@@ -3,13 +3,14 @@
 ### Administrative information
 
 - **Instructor:**   
-    - [Weinan E](https://web.math.princeton.edu/~weinan/) 
-    - Yucheng Yang,   yuchengy@princeton.edu
+    - Weinan E
+    - Yucheng Yang
 
 - **Time:** Tue: 9:00-12:00; Thu: 9:00-12:00; Fri: 10:00-12:00 (9:00-11:00 in Week 1). 
 
 - **Location:**  Room 515, [Teaching Building 2](https://maps.baidu.com/poi/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6(%E7%87%95%E5%9B%AD%E6%A0%A1%E5%8C%BA)%E7%AC%AC%E4%BA%8C%E6%95%99%E5%AD%A6%E6%A5%BC(%E6%9D%8E%E5%85%86%E5%9F%BA%E6%A5%BC)/@12948834.869857343,4837581.844142513,19.6z?uid=82548a63754afc91735e80e4&primaryUid=10472254985355704340&ugc_type=3&ugc_ver=1&device_ratio=1&compat=1&querytype=detailConInfo&da_src=shareurl)
 
+- **Office Hour:** By Appointment with yuchengy@princeton.edu
 
 ### Course Description
 
