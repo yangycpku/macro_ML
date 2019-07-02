@@ -55,7 +55,7 @@ We introduce emerging opportunities in macroeconomics due to the recent booming 
 
 4.4 Social Network Data, Economic Behavior and Macro Implications
 
-4.5 Firm Data, ESIEC, Trade Data and Chinese Economy
+4.5 Firm Data and Macroeconomic Implications
 
 4.6 Employer-Employee Data, Job Posting Data and Firm Dynamics
 
