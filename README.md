@@ -2,7 +2,7 @@
 
 ### Administrative information
 
-- **Instructor:**   
+- **Instructors:**   
     - Weinan E
     - Yucheng Yang
 
@@ -16,7 +16,7 @@
 
 We introduce emerging opportunities in macroeconomics due to the recent booming of big data and the development of machine learning. We will systematically discuss relevant existing work (e.g. state space models, heterogeneous agent models, reduced-form macro models) and a series of recent work. The course will be based on lecture notes by instructors and relevant papers.
 
-### Outline of the Course
+### Outline of the Course (Main References are in the Reading List)
 
 **1. Overview**
 
@@ -70,4 +70,4 @@ Calculus and Linear Algebra, at least one programming language. Students should 
 
 
 ### Grading
-50\% class participation and presentation. 50\% final project. Auditing students are welcome, but should also participate in the in-class presentation.
+50\% class participation and presentation. 50\% final project. Auditing students are welcome, but should also participate in the in-class presentation. For more details please refer to the syllabus.
