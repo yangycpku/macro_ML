@@ -17,7 +17,7 @@ We introduce emerging opportunities in macroeconomics due to the recent booming 
 
 ### Outline of the Course
 
-**1. Overview: **
+**1. Overview**
 
 1.1 Introduction
 
