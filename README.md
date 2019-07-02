@@ -18,32 +18,50 @@ We introduce emerging opportunities in macroeconomics due to the recent booming 
 
 **Topic:**
 
-1. Overview: 
-  1.1 Introduction
-  1.2 Basics of Machine Learning for Macroeconomics \medskip
+**1. Overview: **
+
+1.1 Introduction
+
+1.2 Basics of Machine Learning for Macroeconomics
+
+**2. Statistical Model in Macroeconomics and Machine Learning**
+2.1 Vector Autoregressive Model and Structural VAR
+
+2.2 State Space Model, Filtering Problem and EM Algorithm
+
+2.3 Recurrent Neural Network and LSTM Network 
   
-2. Statistical Model in Macroeconomics and Machine Learning 
-  2.1 Vector Autoregressive Model and Structural VAR
-  2.2 State Space Model, Filtering Problem and EM Algorithm
-  2.3 Recurrent Neural Network and LSTM Network 
-  2.4 State Space Model with Non-standard Data \medskip
+2.4 State Space Model with Non-standard Data
 
-3. Structural Model in Macroeconomics and Machine Learning
-  3.1 Representative Agent Model and DSGE
-  3.2 Heterogeneous Agent Model: Krusell-Smith and variants 
-  3.3 Heterogeneous Agent Model in Continuous Time: HACT and HANK 
-  3.4 Solving High-dimensional Stochastic Control and PDEs  using Deep Neural Networks
-  3.5 Solving Structural Model using Deep Neural Networks \medskip
+**3. Structural Model in Macroeconomics and Machine Learning**
 
-4. Empirical Macroeconomic Analysis with Big Data
-  4.1 Credit \& Consumption Data and the Great Recession
-  4.2 Tax Data, Inequality and Economic Opportunity   
-  4.3 Scanner Data, Prices and Monetary Policy
-  4.4 Social Network Data, Economic Behavior and Macro Implications
-  4.5 Firm Data, ESIEC, Trade Data and Chinese Economy
-  4.6 Employer-Employee Data, Job Posting Data and Firm Dynamics
-  4.7 Alternative Data and New Measures of National Accounting
-  4.8 Textual Data, Uncertainty and Sentiments
+3.1 Representative Agent Model and DSGE
+
+3.2 Heterogeneous Agent Model: Krusell-Smith and variants 
+
+3.3 Heterogeneous Agent Model in Continuous Time: HACT and HANK 
+
+3.4 Solving High-dimensional Stochastic Control and PDEs  using Deep Neural Networks
+
+3.5 Solving Structural Model using Deep Neural Networks
+
+**4. Empirical Macroeconomic Analysis with Big Data**
+
+4.1 Credit & Consumption Data and the Great Recession
+
+4.2 Tax Data, Inequality and Economic Opportunity   
+
+4.3 Scanner Data, Prices and Monetary Policy
+
+4.4 Social Network Data, Economic Behavior and Macro Implications
+
+4.5 Firm Data, ESIEC, Trade Data and Chinese Economy
+
+4.6 Employer-Employee Data, Job Posting Data and Firm Dynamics
+
+4.7 Alternative Data and New Measures of National Accounting
+
+4.8 Textual Data, Uncertainty and Sentiments
 
 **Prerequisite:**
 
