@@ -2,7 +2,7 @@
 
 ### Sign-up
 
-For all enrolled and auditing students, please sign up [here] (https://www.wjx.cn/jq/41872990.aspx) for further notifications.
+For all enrolled and auditing students, please sign up [here](https://www.wjx.cn/jq/41872990.aspx) for further notifications.
 
 ### Administrative information
 
