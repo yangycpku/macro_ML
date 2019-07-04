@@ -1,6 +1,6 @@
 ## Presentation Schedule
 
-### July12 (9:00-12:00)
+### July 12 (9:00-12:00)
 
 - Saez, E. and Zucman, G., 2016. Wealth inequality in the United States since 1913: Evidence from capitalized income tax data. *The Quarterly Journal of Economics*, 131(2), pp.519-578. [link](http://gabriel-zucman.eu/uswealth/) 
 
