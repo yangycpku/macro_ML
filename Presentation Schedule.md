@@ -1,6 +1,6 @@
 ## Presentation Schedule
 
-### July 12 (9:00-12:00)
+### July 12 (9:00-12:00, 25 minutes each)
 
 - Saez, E. and Zucman, G., 2016. Wealth inequality in the United States since 1913: Evidence from capitalized income tax data. *The Quarterly Journal of Economics*, 131(2), pp.519-578. [link](http://gabriel-zucman.eu/uswealth/) 
 
@@ -12,6 +12,10 @@
 
   Presenters: 宋韵婕，张超，陈卓，丁一开
 
+  
+- Chetty, R., Hendren, N., Kline, P. and Saez, E., 2014. Where is the land of opportunity? The geography of intergenerational mobility in the United States. *The Quarterly Journal of Economics*, 129(4), pp.1553-1623.
+
+  Presenters: 姚心觉，邓涵，马灏，杨卿栩
   
 
 - Chetty, R. and Hendren, N., 2018. The impacts of neighborhoods on intergenerational mobility I & II. *The Quarterly Journal of Economics*, 133(3), pp.1107-1162; pp.1163-1228. [link1](https://opportunityinsights.org/paper/neighborhoodsi/) [link2](https://opportunityinsights.org/paper/neighborhoodsii/)
