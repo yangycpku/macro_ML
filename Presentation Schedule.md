@@ -13,7 +13,7 @@
   Presenters: 宋韵婕，张超，陈卓，丁一开
 
   
-- Chetty, R., Hendren, N., Kline, P. and Saez, E., 2014. Where is the land of opportunity? The geography of intergenerational mobility in the United States. *The Quarterly Journal of Economics*, 129(4), pp.1553-1623.
+- Chetty, R., Hendren, N., Kline, P. and Saez, E., 2014. Where is the land of opportunity? The geography of intergenerational mobility in the United States. *The Quarterly Journal of Economics*, 129(4), pp.1553-1623. [link](https://opportunityinsights.org/paper/land-of-opportunity/)
 
   Presenters: 姚心觉，邓涵，马灏，杨卿栩
   
