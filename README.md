@@ -1,5 +1,10 @@
 ## Macroeconomic Analysis with Machine Learning and Big Data
 
+### What's New?
+
+**July 4:** The presentation schedule has been uploaded [here](https://github.com/yangycpku/macro_ML/blob/master/Presentation%20Schedule.md). Please refer to the slides of the first lecture for instructions. You can find a sample presentation [here](https://github.com/yangycpku/macro_ML/blob/master/Presentation/sample_slides.pdf), but please note that it was a 15-minute presentation. A 30-minute presentation would have about 20 pages of slides.
+
+
 ### Sign-up
 
 For all enrolled and auditing students, please sign up [here](https://www.wjx.cn/jq/41872990.aspx) for further notifications.
