@@ -32,7 +32,7 @@
 
 - Blumenstock, J., Cadamuro, G., & On, R. 2015. Predicting poverty and wealth from mobile phone metadata. Science, 350(6264), 1073-1076. [link](https://science.sciencemag.org/content/350/6264/1073) [link for supp](https://science.sciencemag.org/content/sci/suppl/2015/11/24/350.6264.1073.DC1/Blumenstock.SM.pdf)
 
-  Presenters: 钟慧怡，张子豪，邱语谦
+  Presenters: 钟慧怡，张子豪，邱语谦，赵驰晖
 
   
 
