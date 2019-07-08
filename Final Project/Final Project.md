@@ -49,7 +49,7 @@
 
 ### 3. Solving Heterogeneous Agent Models with Deep Learning
 
-- (30') Replicate at least two of the methods in Den Hann (2010) and present the results. [project link](http://www.wouterdenhaan.com/datasuite.htm), [paper link](https://www.sciencedirect.com/science/article/pii/S0165188909001298).
+- (30') Replicate at least two of the methods in Den Haan (2010) and present the results. [project link](http://www.wouterdenhaan.com/datasuite.htm), [paper link](https://www.sciencedirect.com/science/article/pii/S0165188909001298).
 - (20'+20') Replicate the work on solving the Krusell-Smith problem with deep neural nets in [this paper](http://papers.nber.org/conf_papers/f126839.pdf).
 
 - For part II, please present the method and results in detail in the final report. As it might be a bit hard, we give 20' extra credit for this part. You may get full credit even if you do not get everything out.
