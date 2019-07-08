@@ -14,7 +14,7 @@
 
 ### 1. Original Research Proposal using Big Data Collected by BIBDR
 
-- The Beijing Institute of Big Data Research (BIBDR) has launched an "economic big data platform" with quite a lot of alternative big data collected and managed there. The figure below is part of the data overview for one city. They have generously agreed to provide their data and computing resources for our course projects. 
+- The Beijing Institute of Big Data Research (BIBDR) has launched an "economic big data platform" with quite a lot of alternative big data collected and maintained there. The figure below is part of the data overview for one city. They have generously agreed to provide their data and computing resources for our course projects. 
 
 ![bibdr2](./fig/bibdr2.png)
 
@@ -52,7 +52,7 @@
 - (30') Replicate at least two of the methods in Den Hann (2010) and present the results. [project link](http://www.wouterdenhaan.com/datasuite.htm), [paper link](https://www.sciencedirect.com/science/article/pii/S0165188909001298).
 - (20'+20') Replicate the work on solving the Krusell-Smith problem with deep neural nets in [this paper](http://papers.nber.org/conf_papers/f126839.pdf).
 
-- For part II, please present the method and results in detail in the final report. As it might be a bit hard, I put 20' extra credit for this part. You may get full credit even if you do not get everything out.
+- For part II, please present the method and results in detail in the final report. As it might be a bit hard, we give 20' extra credit for this part. You may get full credit even if you do not get everything out.
 
   
 
