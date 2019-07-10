@@ -2,7 +2,7 @@
 
 ### What's New?
 
-**July 10:** The [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) on Statistical Model in Macroeconomics: I taken by @胡裕民 and @杨路 have been uploaded.
+**July 10:** The [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) on Statistical Model in Macroeconomics (I) taken by @胡裕民 and @杨路 have been uploaded.
 
 **July 8:** Instructions for the final project have been uploaded [here](https://github.com/yangycpku/macro_ML/blob/master/Final%20Project/Final%20Project.md).
 
