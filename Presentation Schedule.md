@@ -110,7 +110,7 @@
 
 - Bailey, M., Dávila, E., Kuchler, T. and Stroebel, J., 2019. House price beliefs and mortgage leverage choice. *The Review of Economic Studies*, Forthcoming. [link](http://pages.stern.nyu.edu/~jstroebe/)
 
-  Presenters: 王珂婷，卢敏鸳，王思曼
+  Presenters: 王珂婷，卢敏鸳，王思曼，黄子珍
 
 
 
