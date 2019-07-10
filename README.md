@@ -6,11 +6,11 @@
 
 **July 8:** Instructions for the final project have been uploaded [here](https://github.com/yangycpku/macro_ML/blob/master/Final%20Project/Final%20Project.md).
 
-**July 5:** The lecture notes on unsupervised learning taken by @黄冠华 have been uploaded. 
+**July 5:** The [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) on unsupervised learning taken by @黄冠华 have been uploaded. 
 
 **July 4:** The presentation schedule has been uploaded [here](https://github.com/yangycpku/macro_ML/blob/master/Presentation%20Schedule.md). Please refer to the slides of the first lecture for instructions. You can find a sample presentation [here](https://github.com/yangycpku/macro_ML/blob/master/Presentation/sample_slides.pdf), but please note that it was a 15-minute presentation. A 30-minute presentation would have about 20 pages of slides.
 
-**July 4:** The lecture notes this morning taken by @黄冠华 and @郑重 have been uploaded. 
+**July 4:** The [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) this morning taken by @黄冠华 and @郑重 have been uploaded. 
 
 ### Sign-up
 
