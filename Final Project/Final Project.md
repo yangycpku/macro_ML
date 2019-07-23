@@ -30,6 +30,7 @@
     - Empirical method or theoretical model or computational algorithm;
     - Preliminary results you have got (descriptive statistics, regression results, etc.).
   - Plan for the next steps (5').
+- The proposal should be 5-10 pages.
 - Any questions that arise when using the platform and the server could be addressed to Mr. 孔京 jingk@mail.ustc.edu.cn. You may also suggest what data that you really hope to use (but not available now), so that he could try to get them for you ASAP. 
 - As a bonus, BIBDR provide internship opportunities to outstanding students working on this project. 
 
