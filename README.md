@@ -2,6 +2,8 @@
 
 ### What's New?
 
+**Aug 21:** I am revising all the remaining notes of this course and plan to upload them to [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) page in a few days.
+
 **July 18:** The [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) on Structural Model in Macroeconomics (I) taken by @刘舸帆 and @袁锡林 have been uploaded. The notes on Statistical Model (II) will be uploaded a bit later.
 
 **July 10:** We will have Dr. [Jiequn Han](https://web.math.princeton.edu/~jiequnh/) to teach a guest lecture on Mean Field Games (MFG) and Heterogeneous Agent Model in Continuous Time (HACT) on July 18.
