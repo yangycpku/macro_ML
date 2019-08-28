@@ -1,16 +1,16 @@
 ## Macroeconomic Analysis with Machine Learning and Big Data
 
-![course](./Final Project/fig/course.jpg)
+<img src="./Final%20Project/fig/course.jpg" width = 100% height = 100% div align=center /></div> 
 
 ### What's New?
 
-**Aug 28:** All the notes of this course have been uploaded to [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes).
+**Aug 28:** All the notes of this course have been uploaded to [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes). Special thanks to all the students who help scribe the notes and provide feedbacks! 
 
 **July 10:** We will have Dr. [Jiequn Han](https://web.math.princeton.edu/~jiequnh/) to teach a guest lecture on Mean Field Games (MFG) and Heterogeneous Agent Model in Continuous Time (HACT) on July 18.
 
 **July 8:** Instructions for the final project have been uploaded [here](https://github.com/yangycpku/macro_ML/blob/master/Final%20Project/Final%20Project.md).
 
-**July 4:** The presentation schedule has been uploaded [here](https://github.com/yangycpku/macro_ML/blob/master/Presentation%20Schedule.md). Please refer to the slides of the first lecture for instructions. You can find a sample presentation [here](https://github.com/yangycpku/macro_ML/blob/master/Presentation/sample_slides.pdf), but please note that it was a 15-minute presentation. A 30-minute presentation would have about 20 pages of slides.
+**July 4:** The presentation schedule has been uploaded [here](https://github.com/yangycpku/macro_ML/blob/master/Presentation%20Schedule.md). Please refer to the slides of the first lecture for instructions. 
 
 ### Sign-up
 
