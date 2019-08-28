@@ -1,22 +1,16 @@
 ## Macroeconomic Analysis with Machine Learning and Big Data
 
+![course](./Final Project/fig/course.jpg)
+
 ### What's New?
 
-**Aug 21:** I am revising all the remaining notes of this course and plan to upload them to [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) page in a few days.
-
-**July 18:** The [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) on Structural Model in Macroeconomics (I) taken by @刘舸帆 and @袁锡林 have been uploaded. The notes on Statistical Model (II) will be uploaded a bit later.
+**Aug 28:** All the notes of this course have been uploaded to [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes).
 
 **July 10:** We will have Dr. [Jiequn Han](https://web.math.princeton.edu/~jiequnh/) to teach a guest lecture on Mean Field Games (MFG) and Heterogeneous Agent Model in Continuous Time (HACT) on July 18.
 
-**July 10:** The [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) on Statistical Model in Macroeconomics (I) taken by @胡裕民 and @杨路 have been uploaded.
-
 **July 8:** Instructions for the final project have been uploaded [here](https://github.com/yangycpku/macro_ML/blob/master/Final%20Project/Final%20Project.md).
 
-**July 5:** The [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) on unsupervised learning taken by @黄冠华 have been uploaded. 
-
 **July 4:** The presentation schedule has been uploaded [here](https://github.com/yangycpku/macro_ML/blob/master/Presentation%20Schedule.md). Please refer to the slides of the first lecture for instructions. You can find a sample presentation [here](https://github.com/yangycpku/macro_ML/blob/master/Presentation/sample_slides.pdf), but please note that it was a 15-minute presentation. A 30-minute presentation would have about 20 pages of slides.
-
-**July 4:** The [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes) this morning taken by @黄冠华 and @郑重 have been uploaded. 
 
 ### Sign-up
 
