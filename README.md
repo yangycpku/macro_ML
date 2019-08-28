@@ -4,7 +4,7 @@
 
 ### What's New?
 
-**Aug 28:** All the notes of this course have been uploaded to [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes). Special thanks to all the students who help scribe the notes and provide feedbacks! 
+**Aug 28:** All the notes on the methodological part of this course have been uploaded to [lecture notes](https://github.com/yangycpku/macro_ML/tree/master/Notes). Special thanks to all the students who help scribe the notes and provide feedbacks! A collection of all the notes can be found [here](https://github.com/yangycpku/macro_ML/blob/master/Notes/EYang_2019Summer_MacroML_public.pdf).
 
 **July 10:** We will have Dr. [Jiequn Han](https://web.math.princeton.edu/~jiequnh/) to teach a guest lecture on Mean Field Games (MFG) and Heterogeneous Agent Model in Continuous Time (HACT) on July 18.
 
