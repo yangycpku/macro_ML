@@ -48,7 +48,7 @@ We introduce emerging opportunities in macroeconomics due to the recent booming 
 
 2.3 Recurrent Neural Network and LSTM Network 
   
-2.4 State Space Model with Non-standard Data
+2.4 VAR/SVAR and State Space Model with Distributional Inputs
 
 **3. Structural Model in Macroeconomics and Machine Learning**
 
@@ -58,7 +58,7 @@ We introduce emerging opportunities in macroeconomics due to the recent booming 
 
 3.3 Heterogeneous Agent Model in Continuous Time: HACT and HANK 
 
-3.4 Solving High-dimensional Stochastic Control and PDEs  using Deep Neural Networks
+3.4 Solving High-dimensional Stochastic Control and PDEs using Deep Neural Networks
 
 3.5 Solving Structural Model using Deep Neural Networks
 
