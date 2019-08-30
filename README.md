@@ -32,6 +32,9 @@ For all enrolled and auditing students, please sign up [here](https://www.wjx.cn
 
 We introduce emerging opportunities in macroeconomics due to the recent booming of big data and the development of machine learning. We will systematically discuss relevant existing work (e.g. state space models, heterogeneous agent models, reduced-form macro models) and a series of recent work. The course will be based on lecture notes by instructors and relevant papers.
 
+<img src="./Final%20Project/fig/spectrum.jpg" width = 100% height = 100% div align=center /></div> 
+
+
 ### Outline of the Course (Main References are in the Reading List)
 
 **1. Overview**
